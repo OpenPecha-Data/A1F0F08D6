@@ -1,0 +1,28 @@
+segment_sources:
+  P895D9233:
+    type: origin_type
+    relation: translation
+    language: en
+  P84E34897:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  44dba5337d5d425e9369cbd4e07d3890:
+    P895D9233: efd535018ead4dbbaf4ee23eb71d440b
+    P84E34897: 288166e3baf5474d879ea43ce3f3a44a
+  6f042975702540ea86ef63bfb64d801c:
+    P895D9233: 1cf2ce75fc1a4f92bcd69406e4cfed9a
+    P84E34897: ba4cfcf7c9224a13bfcf9dac8b7f2dea
+  4fdddabd44614c63886200c91a4a0503:
+    P895D9233: 1c8ce3310b2f4dbd846c2ddedd1f9c67
+    P84E34897: 56bf9ce34a4947b0ad9f13f4abd93a66
+  ce8eeb44614042caabe6e51ed7bccfd5:
+    P895D9233: 295bd1ec6e2049bf8327d1df08cac899
+    P84E34897: b168b0ca52b5404d96d8684da73aca96
+  d5206496ecbb4506a22654ee533e9d75:
+    P895D9233: 253c2b16d7b74bdea8f5baf92f555850
+    P84E34897: 31ef4cf02db2464291e1eb2846290460
+  e9413677ae7245aea43ae27e9af40bff:
+    P895D9233: 0a9e85ba917c43d48b610df24c90d7c4
+    P84E34897: 1a7c46364a0848d68239c1566c343a2b
